@@ -1,4 +1,4 @@
-import Layout from 'components/layouts/default'
+import Layout from 'components/layouts'
 import type { ReactElement } from 'react'
 
 const Home = () => {
